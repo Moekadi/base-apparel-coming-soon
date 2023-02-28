@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    width: 50%;
+    margin: 0 auto;
+}
+.content{
+    width: 50%;
+    text-align: left;
+    padding: 10px;
+    color: palevioletred;
+}
+.picture{
+    width: 50%;
+    padding: 20px;
+}
+img{
+    width: 120%;
+}
+input{
+    border: 1px solid palevioletred;
+    border-radius: 2.25em;
+    padding: 5px;
+}
+button{
+    border: 1px solid transparent;
+    border: 2px solid palevioletred;
+    border-radius: 2.25em;
+    padding: 5px;
+}
+ 
